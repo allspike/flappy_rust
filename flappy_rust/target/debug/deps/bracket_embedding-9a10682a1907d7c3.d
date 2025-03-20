@@ -1,0 +1,8 @@
+/Users/jspikerman/Documents/projects/flappy_rust/flappy_rust/target/debug/deps/libbracket_embedding-9a10682a1907d7c3.rmeta: /Users/jspikerman/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-embedding-0.8.7/src/lib.rs /Users/jspikerman/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-embedding-0.8.7/src/embedding.rs /Users/jspikerman/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-embedding-0.8.7/src/../resources/terminal8x8.png /Users/jspikerman/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-embedding-0.8.7/src/../resources/vga8x16.png
+
+/Users/jspikerman/Documents/projects/flappy_rust/flappy_rust/target/debug/deps/bracket_embedding-9a10682a1907d7c3.d: /Users/jspikerman/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-embedding-0.8.7/src/lib.rs /Users/jspikerman/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-embedding-0.8.7/src/embedding.rs /Users/jspikerman/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-embedding-0.8.7/src/../resources/terminal8x8.png /Users/jspikerman/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-embedding-0.8.7/src/../resources/vga8x16.png
+
+/Users/jspikerman/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-embedding-0.8.7/src/lib.rs:
+/Users/jspikerman/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-embedding-0.8.7/src/embedding.rs:
+/Users/jspikerman/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-embedding-0.8.7/src/../resources/terminal8x8.png:
+/Users/jspikerman/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-embedding-0.8.7/src/../resources/vga8x16.png:

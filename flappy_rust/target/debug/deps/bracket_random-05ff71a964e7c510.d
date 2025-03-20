@@ -1,0 +1,10 @@
+/Users/jspikerman/Documents/projects/flappy_rust/flappy_rust/target/debug/deps/libbracket_random-05ff71a964e7c510.rmeta: /Users/jspikerman/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-random-0.8.7/src/lib.rs /Users/jspikerman/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-random-0.8.7/src/random.rs /Users/jspikerman/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-random-0.8.7/src/parsing.rs /Users/jspikerman/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-random-0.8.7/src/iterators.rs
+
+/Users/jspikerman/Documents/projects/flappy_rust/flappy_rust/target/debug/deps/libbracket_random-05ff71a964e7c510.rlib: /Users/jspikerman/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-random-0.8.7/src/lib.rs /Users/jspikerman/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-random-0.8.7/src/random.rs /Users/jspikerman/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-random-0.8.7/src/parsing.rs /Users/jspikerman/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-random-0.8.7/src/iterators.rs
+
+/Users/jspikerman/Documents/projects/flappy_rust/flappy_rust/target/debug/deps/bracket_random-05ff71a964e7c510.d: /Users/jspikerman/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-random-0.8.7/src/lib.rs /Users/jspikerman/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-random-0.8.7/src/random.rs /Users/jspikerman/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-random-0.8.7/src/parsing.rs /Users/jspikerman/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-random-0.8.7/src/iterators.rs
+
+/Users/jspikerman/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-random-0.8.7/src/lib.rs:
+/Users/jspikerman/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-random-0.8.7/src/random.rs:
+/Users/jspikerman/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-random-0.8.7/src/parsing.rs:
+/Users/jspikerman/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-random-0.8.7/src/iterators.rs:

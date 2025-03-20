@@ -1,0 +1,8 @@
+/Users/jspikerman/Documents/projects/flappy_rust/flappy_rust/target/debug/deps/libbracket_algorithm_traits-30334bedd2df67a8.rmeta: /Users/jspikerman/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-algorithm-traits-0.8.7/src/lib.rs /Users/jspikerman/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-algorithm-traits-0.8.7/src/algorithm2d.rs /Users/jspikerman/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-algorithm-traits-0.8.7/src/algorithm3d.rs /Users/jspikerman/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-algorithm-traits-0.8.7/src/basemap.rs
+
+/Users/jspikerman/Documents/projects/flappy_rust/flappy_rust/target/debug/deps/bracket_algorithm_traits-30334bedd2df67a8.d: /Users/jspikerman/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-algorithm-traits-0.8.7/src/lib.rs /Users/jspikerman/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-algorithm-traits-0.8.7/src/algorithm2d.rs /Users/jspikerman/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-algorithm-traits-0.8.7/src/algorithm3d.rs /Users/jspikerman/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-algorithm-traits-0.8.7/src/basemap.rs
+
+/Users/jspikerman/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-algorithm-traits-0.8.7/src/lib.rs:
+/Users/jspikerman/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-algorithm-traits-0.8.7/src/algorithm2d.rs:
+/Users/jspikerman/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-algorithm-traits-0.8.7/src/algorithm3d.rs:
+/Users/jspikerman/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-algorithm-traits-0.8.7/src/basemap.rs:
